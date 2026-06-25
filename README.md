@@ -1,9 +1,5 @@
 # WebWiz Tasks
-
-**Name:** Parijat_Mandal  
-**Roll No:** 125csOO11
-
-This repository contains all tasks assigned as part of the WebWiz club (AI/ML team).
+This repository contains all tasks assigned, as part of the WebWiz club's AI/ML team.
 
 ## Structure
 ```
